@@ -1,5 +1,5 @@
 export default {
   print() {
-    console.log('print')
+    console.log('print123')
   }
 }
